@@ -32,8 +32,9 @@ export const Author = (props) => (
             author {
               name
               bio
-              contacts {       
-                twitter
+              contacts {
+                email
+                github
               }
             }
           }

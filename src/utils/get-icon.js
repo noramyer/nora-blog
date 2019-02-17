@@ -10,6 +10,9 @@ const getIcon = (name) => {
     case 'email':
       icon = ICONS.EMAIL;
       break;
+    case 'linkedin':
+      icon = ICONS.LINKEDIN;
+      break;
     default:
       icon = {};
       break;

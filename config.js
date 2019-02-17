@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by Nora Myer',
+  title: 'Nora\'s Blog',
   subtitle: 'Incoming software engineer @ Flatiron Health.\nOhio State CS \'19.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -24,15 +24,12 @@ module.exports = {
   ],
   author: {
     name: 'Nora Myer',
-    photo: '/photo.jpg',
-    bio: 'Incoming software engineer @ Flatiron Health.\nOhio State CS \'19.\nLover of thrifting, cooking, sewing, skiing, and much more.',
+    photo: '/photo4.jpg',
+    bio: 'Incoming software engineer @ Flatiron Health. Ohio State CS \'19.\nLady of elastic virtue and cosmopolitan tendencies.',
     contacts: {
       email: 'myer.41@osu.edu',
-      telegram: '#',
-      twitter: '#',
-      github: 'https://github.com/noramyer',
-      rss: '#',
-      vkontakte: '#'
+      github: 'noramyer',
+      linkedin: 'nora-myer-9ab77b105'
     }
   }
 };
