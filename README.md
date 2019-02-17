@@ -1,19 +1,18 @@
 <h1 align="center">
-    <img alt="My Blog" title="My Blog" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
+    <img alt="My Blog" title="My Blog" src="https://github.com/noramyer/nora-blog/blob/gatsby-v2/.github/logo.png" width="140"> </br>
     My Blog
 </h1>
 
 <h4 align="center">
-  A minimal, lightweight and mobile-first starter for creating blogs uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
+  A lightweight blog written by Nora Myer that uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
 </h4>
 
 ## Table of contents
-+ [About](http://github.com/alxshelepenok/gatsby-starter-lumen#about)
-+ [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
-+ [Deploy with Surge](http://github.com/alxshelepenok/gatsby-starter-lumen#deploy-with-surge)
-+ [Folder Structure](http://github.com/alxshelepenok/gatsby-starter-lumen#folder-structure)
-+ [Related](http://github.com/alxshelepenok/gatsby-starter-lumen#related)
-+ [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license)
++ [About](http://github.com/noramyer/nora-blog#about)
++ [Quick Start](http://github.com/noramyer/nora-blog#quick-start)
++ [Deploy with Surge](http://github.com/noramyer/nora-blog#deploy-with-surge)
++ [Folder Structure](http://github.com/noramyer/nora-blog#folder-structure)
++ [License](http://github.com/noramyer/nora-blog#license)
 
 ## About
 
@@ -29,7 +28,7 @@ Use the Gatsby CLI to create a new site, specifying the Lumen starter.
 
 ```sh
 # Create a new Gatsby site using the Lumen starter
-gatsby new blog https://github.com/alxshelepenok/gatsby-starter-lumen
+gatsby new blog https://github.com/noramyer/nora-blog
 ```
 
 #### Start Developing
@@ -53,7 +52,7 @@ Open the `blog` directory in your code editor of choice and edit `src/templates/
 
 [Netlify](https://netlify.com) CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/noramyer/nora-blog" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
 
