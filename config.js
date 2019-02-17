@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Nora Myer',
+  subtitle: 'Incoming software engineer @ Flatiron Health.\nOhio State CS \'19.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Nora Myer',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Incoming software engineer @ Flatiron Health.\nOhio State CS \'19.\nLover of thrifting, cooking, sewing, skiing, and much more.',
     contacts: {
-      email: '#',
+      email: 'myer.41@osu.edu',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://github.com/noramyer',
       rss: '#',
       vkontakte: '#'
     }
