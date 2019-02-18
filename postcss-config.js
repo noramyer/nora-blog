@@ -26,7 +26,7 @@ module.exports = [
       'padding-right',
       'border-radius',
       'width',
-      'max-width',
+      'max-width'
     ],
     selectorBlackList: [],
     replace: true,
