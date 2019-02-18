@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-My name is Nora Myer, although technically I was born Eleanor, and if you have had the unfortunate luck to stumble upon my blog, hello. I am a lover of thrift stores, a passable cook, and a current computer science student who built this blog to showcase some cool projects I have done and talk about my life within the private confines of relatively unknown domain, this site. Since I am no longer a fan of social media (which maybe I will post about soon?), this is a way for me to share interesting stories or experiences with people close to me.
+My name is Nora Myer, and if you have had the unfortunate luck to stumble upon my blog, hello. I am a lover of thrift stores, a passable cook, and a current computer science student who built this blog to showcase some cool projects I have done and talk about my life within the private confines of relatively unknown domain, this site. Since I am no longer a fan of social media (which maybe I will post about soon?), this is a way for me to share interesting stories or experiences with people close to me.
 
 I grew up outside of Boston, which would make my boyfriend groan hearing that because _technically_ I was born in Worcester, MA which is far enough outside of Boston that it is no longer Boston. But the only place in MA that mid-westerners know is Boston, so I will stick to that. I moved to Cincinnati when I was around 8, and now live and go to school at Ohio State.
 
@@ -13,7 +13,15 @@ I grew up outside of Boston, which would make my boyfriend groan hearing that be
 
 ## What I like to do
 
-Outside of woek n
+I like to do many things, most of which aren't related to coding because, well, I have other hobbies, and after thinking conceptually all day about programming, I want to do more hands on things. Recently I have been into cooking thanks to both my boyfriend and some great cook books out there like Salt, Fat, Acid, Heat. My end goal is to be able to cook mostly without recipes, just using technique and flavor knowledge. (All vegetarian food though, since I haven't eaten meat since my first week of freshman year way back when.)
+
+I'm also an avid thrifter and swear by its healing properties, so much so that I go about once a week since it's relaxing to me. It started when I was in middle school as a way to fit in cheaply since I didn't have a ton of money, and has grown into a love and appreciation for vintage fashion and sewing. In fact, one of my 2019 resolutions is to not purchase any new clothing (excluding the stuff you probably should never buy second hand).
+
+![Whistler skiing.](/media/ski-2.jpg)
+
+*Whistler, 2017.*
+
+When I get the chance to, I enjoy skiing outside of Ohio, and I also love to hike. Thanks to my grandpa's obsession with national parks, I've been to almost 25 in the US.
 
 ## A little bit more about me, professionally
 

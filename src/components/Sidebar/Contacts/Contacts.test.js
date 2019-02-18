@@ -8,6 +8,7 @@ describe('Contacts', () => {
       email: '#',
       github: '#',
       linkedin: '#',
+      spotify: '#',
     }
   };
 

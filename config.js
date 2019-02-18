@@ -24,12 +24,13 @@ module.exports = {
   ],
   author: {
     name: 'Nora Myer',
-    photo: '/photo4.jpg',
+    photo: '/photo.jpg',
     bio: 'Incoming software engineer @ Flatiron Health. Ohio State CS \'19.\nLady of elastic virtue and cosmopolitan tendencies.',
     contacts: {
       email: 'myer.41@osu.edu',
       github: 'noramyer',
-      linkedin: 'nora-myer-9ab77b105'
+      linkedin: 'nora-myer-9ab77b105',
+      spotify: 'lilnorz',
     }
   }
 };

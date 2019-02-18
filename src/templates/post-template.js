@@ -33,6 +33,7 @@ export const query = graphql`
             email
             github
             linkedin
+            spotify
           }
         }
         disqusShortname

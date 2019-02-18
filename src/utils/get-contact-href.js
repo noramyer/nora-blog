@@ -11,6 +11,9 @@ const getContactHref = (name, contact) => {
     case 'linkedin':
       href = `https://www.linkedin.com/in/${contact}`;
       break;
+    case 'spotify':
+      href = `https://open.spotify.com/user/${contact}`;
+      break;
     default:
       href = contact;
       break;
