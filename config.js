@@ -14,12 +14,12 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Projects',
+      path: '/projects'
     },
     {
-      label: 'Projects',
-      path: '/'
+      label: 'About me',
+      path: '/pages/about'
     },
   ],
   author: {
