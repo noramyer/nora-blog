@@ -14,6 +14,9 @@ const getContactHref = (name, contact) => {
     case 'spotify':
       href = `https://open.spotify.com/user/${contact}`;
       break;
+    case 'resume':
+      href = `../nora-blog/static/${contact}`;
+      break;
     default:
       href = contact;
       break;

@@ -16,6 +16,9 @@ const getIcon = (name) => {
     case 'spotify':
       icon = ICONS.SPOTIFY;
       break;
+    case 'resume':
+      icon = ICONS.RESUME;
+      break;
     default:
       icon = {};
       break;
