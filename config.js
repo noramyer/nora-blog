@@ -18,14 +18,14 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'Projects',
+      path: '/'
+    },
   ],
   author: {
     name: 'Nora Myer',
     photo: '/photo.jpg',
-    bio: 'Incoming software engineer @ Flatiron Health.\nOhio State CS \'19.\nLady of elastic virtue and cosmopolitan tendencies.',
+    bio: 'Incoming software engineer @ Flatiron Health.\n Ohio State CS \'19.\n Lady of elastic virtue and cosmopolitan tendencies.',
     contacts: {
       email: 'myer.41@osu.edu',
       github: 'noramyer',
