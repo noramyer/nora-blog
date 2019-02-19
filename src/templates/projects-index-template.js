@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
-import Feed from '../components/Feed';
+import ProjectFeed from '../components/ProjectFeed';
 import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 
@@ -27,7 +27,7 @@ const ProjectIndexTemplate = ({ data, pageContext }) => {
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
       <Page>
-        <Feed edges={edges} />
+        <ProjectFeed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}
           nextPagePath={nextPagePath}
