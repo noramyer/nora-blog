@@ -2,6 +2,18 @@
 @import '../../assets/scss/mixins';
 
 .project-feed {
+  &__photo {
+    display: inline-block;
+    margin-bottom: 0;
+    background-clip: padding-box
+  }
+
+  &__horizontal-item {
+    display: inline-block;
+    margin-bottom: 0;
+    background-clip: padding-box
+  }
+
   &__item {
     @include margin-bottom(1.25);
 

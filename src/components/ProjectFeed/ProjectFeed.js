@@ -19,7 +19,16 @@ const ProjectFeed = ({ edges }) => (
         <h2 className={styles['project-feed__item-title']}>
           <Link className={styles['project-feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
         </h2>
-        <p className={styles['project-feed__item-description']}>{edge.node.frontmatter.description}</p>
+        <div className={styles['project-feed__item-meta']}>
+          <img
+            src={edge.node.frontmatter.image}
+            className={styles['project-feed__photo']}
+            width="200"
+            height="150"
+            alt={edge.node.frontmatter.title}
+          />
+          <p className={styles['project-feed__item-description']}>{edge.node.frontmatter.description}</p>
+        </div>
         <Link className={styles['project-feed__item-readmore']} to={edge.node.fields.slug}>Read</Link>
       </div>
     ))}
