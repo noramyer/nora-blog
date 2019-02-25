@@ -2,6 +2,28 @@
 @import '../../assets/scss/mixins';
 
 .project-feed {
+  &__photo {
+    display: inline-block;
+    margin-bottom: 0;
+    background-clip: padding-box
+  }
+
+  &__header_photo {
+    display: inline-block;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-right: 25px;
+  }
+
+  &__horizontal-item {
+    display: inline;
+    margin-bottom: 0;
+    background-clip: padding-box
+  }
+
   &__item {
     @include margin-bottom(1.25);
 
@@ -35,6 +57,11 @@
     }
 
     &-meta {
+      &-horizontal_image {
+        display: inline-flex;
+        vertical-align: middle
+      }
+
       &-time {
         font-size: $typographic-small-font-size;
         color: $color-base;

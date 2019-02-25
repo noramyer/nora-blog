@@ -5,6 +5,7 @@ template: "project"
 draft: false
 slug: "/projects/perfecting-the-art-of-perfection/"
 category: "Design Inspiration"
+image: "/media/blog-heart.jpg"
 tags:
   - "Handwriting"
   - "Learning to write"
