@@ -8,8 +8,18 @@
     background-clip: padding-box
   }
 
-  &__horizontal-item {
+  &__header_photo {
     display: inline-block;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-right: 25px;
+  }
+
+  &__horizontal-item {
+    display: inline;
     margin-bottom: 0;
     background-clip: padding-box
   }
@@ -47,6 +57,11 @@
     }
 
     &-meta {
+      &-horizontal_image {
+        display: inline-flex;
+        vertical-align: middle
+      }
+
       &-time {
         font-size: $typographic-small-font-size;
         color: $color-base;

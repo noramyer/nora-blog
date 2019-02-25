@@ -5,7 +5,7 @@ template: "project"
 draft: false
 slug: "/projects/perfecting-the-art-of-perfection2/"
 category: "Design Inspiration"
-image: "/media/42-line-bible.jpg"
+image: "/media/computer-code.png"
 tags:
   - "Handwriting"
   - "Learning to write"
