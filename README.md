@@ -1,73 +1,23 @@
 <h1 align="center">
-    <img alt="My Blog" title="My Blog" src="https://github.com/noramyer/nora-blog/blob/gatsby-v2/.github/logo.png" width="140"> </br>
-    My Blog
+    <img alt="My Blog" title="My Blog" src="/static/media/blog-heart.jpg" width="200"> </br>
+    A Blog/Website/Thingy
 </h1>
 
 <h4 align="center">
-  A lightweight blog written by Nora Myer that uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
+  A lightweight site written by me, Nora, that uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
 </h4>
 
 ## Table of contents
 + [About](http://github.com/noramyer/nora-blog#about)
-+ [Quick Start](http://github.com/noramyer/nora-blog#quick-start)
-+ [Deploy with Surge](http://github.com/noramyer/nora-blog#deploy-with-surge)
 + [Folder Structure](http://github.com/noramyer/nora-blog#folder-structure)
++ [Create Your Own](http://github.com/noramyer/nora-blog#create-your-own)
++ [Deploy with Surge](http://github.com/noramyer/nora-blog#deploy-with-surge)
 + [License](http://github.com/noramyer/nora-blog#license)
 
 ## About
 
-Welcome to the site of a new blog, built using Gatsby.js.
-
-Check it out at xyz.com [coming soon]
-
-## Quick Start
-
-#### Create a Gatsby site
-
-Use the Gatsby CLI to create a new site, specifying the Lumen starter.
-
-```sh
-# Create a new Gatsby site using the Lumen starter
-gatsby new blog https://github.com/noramyer/nora-blog
-```
-
-#### Start Developing
-
-Navigate into your new site’s directory and start it up.
-
-```sh
-cd blog
-gatsby develop
-```
-
-#### Open the source code and start editing!
-
-Your site is now running at `http://localhost:8000`!
-
-Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
-
-Open the `blog` directory in your code editor of choice and edit `src/templates/index-template.js`. Save your changes and the browser will update in real time!
-
-## Deploy with Surge
-
-[Netlify](https://netlify.com) CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
-
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/noramyer/nora-blog" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-
-After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
-
-#### Access Locally
-```
-$ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-$ cd [REPO_NAME]
-$ yarn
-$ npm run develop
-```
-To test the CMS locally, you'll need run a production build of the site:
-```
-$ npm run build
-$ npm run serve
-```
+Welcome to the site of my new blog, built using Gatsby.js. Here I share projects, clothing I love, cooking adventures, and maybe some thoughts.
+Check it out at [coming soon].
 
 ## Folder Structure
 
@@ -97,6 +47,13 @@ $ npm run serve
     │   │   ├── Content
     │   │   ├── Meta
     │   │   └── Tags
+    │   ├── Project
+    │   │   ├── Author
+    │   │   ├── Comments
+    │   │   ├── Content
+    │   │   ├── Meta
+    │   │   └── Tags
+    │   ├── ProjectFeed
     │   └── Sidebar
     │       ├── Author
     │       ├── Contacts
@@ -107,6 +64,55 @@ $ npm run serve
     └── utils
 
 ```
+
+## Create Your Own
+
+#### Create a Gatsby site
+
+Use the Gatsby CLI to create a new site, specifying this as a starter.
+
+```sh
+# Create a new Gatsby site using this as a starter
+gatsby new blog https://github.com/noramyer/nora-blog
+```
+
+#### Start Developing
+
+Navigate into your new site’s directory and start it up.
+
+```sh
+$ cd blog
+$ yarn
+$ npm run develop
+```
+
+#### Open the code and start editing!
+
+The site is now running at `http://localhost:8000`
+
+Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
+
+Save your changes and the browser will update in real time.
+
+## Deploy with Surge
+
+Surge is a static host site which makes it easy to deploy a Gatsby site. If you haven't yet, first install the terminal tool:
+```
+$ npm install --global surge
+```
+
+Then, create a free account with them.
+```
+$ surge
+```
+
+To deploy the site, you'll first run a production build of the site, then surge:
+```
+$ npm run build
+$ surge public/
+```
+
+It will deploy to a randomly generated site for you, or you can set up a CNAME file and configure it to deploy to that domain instead.
 
 ## License
 The MIT License (MIT)
