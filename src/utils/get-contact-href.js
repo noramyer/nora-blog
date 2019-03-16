@@ -15,13 +15,14 @@ const getContactHref = (name, contact) => {
       href = `https://open.spotify.com/user/${contact}`;
       break;
     case 'resume':
-      href = `../nora-blog/static/${contact}`;
+      href = `../assets/photo.jpg`;
       break;
     default:
       href = contact;
       break;
   }
 
+  console.log(href)
   return href;
 };
 
