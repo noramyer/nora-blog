@@ -1,5 +1,5 @@
 ---
-title: My First Post!
+title: My first post!
 date: "2019-05-07T08:30:30.000Z"
 template: "post"
 draft: false
