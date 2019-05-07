@@ -11,11 +11,6 @@ description: "I finally started a blog! Very few people will ever see this, and 
 ---
 ![thanks.png](/media/happy.png)
 
-- [The graduation](#the-graduation)
-- [The big trip](#the-big-trip)
-- [The big move](#the-big-move)
-- [This blog](#this-blog)
-
 A couple years ago I swore off blogs, calling them pretentious and pointless. So naturally, I made one! I've finally got a blog up and running, which took forever because this semester was the busiest of my life. I thought second semester senior year was supposed to be a breeze, but someone lied to me. Maybe a business student. Kidding, okay that is the one and only business student joke I will ever make on this blog, I swear. Different fields, different experiences. Anyway, to start, I would like to share a quote found in one of the college code and cryptography textbooks:
 
 > Another class who are great supporters of street music consists of ladies of elastic virtue and cosmopolitan tendencies.
