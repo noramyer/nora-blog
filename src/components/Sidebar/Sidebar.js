@@ -47,7 +47,6 @@ export const Sidebar = (props) => (
                 email
                 linkedin
                 spotify
-                resume
               }
             }
           }

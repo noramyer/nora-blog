@@ -32,7 +32,6 @@ module.exports = {
       github: 'noramyer',
       linkedin: 'nora-myer-9ab77b105',
       spotify: 'lilnorz',
-      resume: 'resume.pdf'
     }
   }
 };
