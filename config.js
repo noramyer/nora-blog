@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Nora\'s Blog',
+  title: 'Home | noramyer.xyz',
   subtitle: 'Incoming software engineer @ Flatiron Health.\nOhio State CS \'19.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
