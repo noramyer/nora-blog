@@ -66,12 +66,17 @@
 
     &-readmore {
       font-size: $typographic-base-font-size;
-      color: $color-primary;
+      color: #02245b;
+      border-radius: 4px;
+      padding: 7px;
+      padding-right: 11px;
+      padding-left: 11px;
+      background-color: $color-primary;
 
       &:hover,
       &:focus {
-        color: $color-primary;
-        border-bottom: 1px solid $color-primary;
+        color: #02245b;
+        background-color: #9ebeff;
       }
 
     }

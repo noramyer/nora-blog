@@ -15,4 +15,4 @@ My goal for the projects section is to showcase some stuff that at least I think
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/404.png)
 
-So hold tight because the next 3 months are going to be the busiest of my entire life (ahhh 2 month trip and moving to NYC and starting a new job!!!?!!) but hey, I'm going to try and that's what counts, right?
+So hold tight because the next 3 months are going to be the busiest of my entire life, but hey, I'm going to try okay.

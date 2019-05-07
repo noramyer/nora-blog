@@ -17,7 +17,7 @@ A couple years ago I swore off blogs, calling them pretentious and pointless. So
 >
 > — Charles Babbage (1791 - 1871)
 
-Babbage was credited with originating the concept of the first digital programmable computer, so that's why he made it in the textbook. Not sure why this quote made it in though, but I'll say the dude definitely had some strong opinions about all types of ladies. Granted that was centuries ago, but I thought his elegant description of :sparkles:ladies of the night:sparkles: was suiting for a young, modern millennial woman who ~~studies~~ studied computer science.
+Babbage was credited with originating the concept of the first digital programmable computer, so that's why he made it into the textbook. Not sure why this quote made it in though, but I'll say the dude definitely had some strong opinions about all types of ladies. Granted that was centuries ago, but I thought his elegant description of :sparkles:ladies of the night:sparkles: was suiting for a young, modern millennial woman who ~~studies~~ studied computer science.
 
 ## The graduation
 
