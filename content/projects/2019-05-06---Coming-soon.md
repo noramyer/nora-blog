@@ -12,10 +12,8 @@ tags:
 description: "A little bit about what I want to do with this section."
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+My goal for the projects section is to showcase some stuff that at least I think is cool. This section will likely have significantly less posts than the actual posts section, but I hope to talk about cool models I've built, detail things I've sewn, and maybe even show some recipes (if I ever am a good enough cook to have a recipe to call my own). I don't know much, but I do know a little. Or at least I now have a degree in a fancy degree-holder that says so.
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/404.png)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+So hold tight because the next 3 months are going to be the busiest of my entire life (ahhh 2 month trip and moving to NYC and starting a new job!!!?!!) but hey, I'm going to try and that's what counts, right?
