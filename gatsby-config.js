@@ -100,6 +100,13 @@ module.exports = {
             }
           },
           {
+            resolve: 'gatsby-remark-emoji', // <-- this adds emoji
+            options: {
+            // default emojiConversion --> shortnameToUnicode
+              emojiConversion: 'shortnameToUnicode',
+            }
+          },
+          {
             resolve: 'gatsby-remark-images',
             options: { maxWidth: 960 }
           },

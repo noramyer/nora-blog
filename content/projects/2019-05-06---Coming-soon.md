@@ -7,8 +7,7 @@ slug: "/projects/coming-soon/"
 category: "Featured"
 image: "/media/programmer.png"
 tags:
-  - "First post"
-  - "Tech"
+  - "Featured"
 description: "A little bit about what I want to do with this section."
 ---
 
