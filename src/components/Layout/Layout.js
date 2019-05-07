@@ -8,6 +8,7 @@ const Layout = ({ children, title, description }) => (
       <html lang="en" />
       <title>{title}</title>
       <meta name="description" content={description} />
+      <meta name="google-site-verification" content="sKzPuFkNJNnHtIb-sEd7QFe4nAwKc8GuSYj4Cec6xck" />
     </Helmet>
     {children}
   </div>
