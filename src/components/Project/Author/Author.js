@@ -8,9 +8,7 @@ export const PureAuthor = ({ data }) => {
 
   return (
     <div className={styles['author']}>
-      <p className={styles['author__bio']}>
-        {author.bio}
-      </p>
+      <p className={styles['author__bio']} dangerouslySetInnerHTML={{__html: author.bio}}></p>
     </div>
   );
 };

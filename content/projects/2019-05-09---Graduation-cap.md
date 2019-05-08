@@ -1,18 +1,21 @@
 ---
-title: Coming soon...
-date: "2019-05-06T22:08:00.000Z"
+title: LED Graduation Cap
+date: "2019-05-09T22:08:00.000Z"
 template: "project"
-draft: false
-slug: "/projects/coming-soon/"
-category: "Featured"
-image: "/media/programmer.png"
+draft: true
+slug: "/projects/graduation-cap/"
+category: "Tech"
+image: "/media/graduation.png"
 tags:
-  - "Featured"
-description: "A little bit about what I want to do with this section."
+  - "Tech"
+description: "Lighting up my graduation cap using an Adafruit 32x32 LED matrix and a Teensy microcontroller."
 ---
 
 My goal for the projects section is to showcase some stuff that at least I think is cool. This section will likely have significantly less posts than the actual posts section, but I hope to talk about cool models I've built, detail things I've sewn, and maybe even show some recipes (if I ever am a good enough cook to have a recipe to call my own). I don't know much, but I do know a little. Or at least I now have a degree in a fancy degree-holder that says so.
 
-![404](/media/404.png)
+![Hacking on computer](/media/winter-designer.png)
 
 So hold tight because the next 3 months are going to be the busiest of my entire life, but hey, I'm going to try okay.
+
+
+[Or, just check out the source code for the final project.](https://github.com/noramyer/led-matrix-grad-cap)
