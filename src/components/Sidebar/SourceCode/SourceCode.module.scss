@@ -1,0 +1,11 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.sourcecode {
+  font-size: $typographic-small-font-size;
+  color: $color-primary;
+
+  &__icon {
+    margin: 0px;
+  }
+}
