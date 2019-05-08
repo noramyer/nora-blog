@@ -31,5 +31,14 @@
     color: $color-gray;
     @include line-height(1);
     @include margin-bottom(1)
+
+    a {
+      color: $color-primary;
+
+      &:hover,
+      &:focus {
+        background-color: #ccdcff;
+      }
+    }
   }
 }

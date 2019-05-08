@@ -26,7 +26,7 @@ module.exports = {
   author: {
     name: 'Nora Myer',
     photo: '/photo.jpg',
-    bio: 'Incoming software engineer @ Flatiron Health.\n Ohio State CS \'19.\n Lady of elastic virtue and cosmopolitan tendencies.',
+    bio: 'Incoming software engineer @ <a href = "https://www.flatiron.com">Flatiron Health</a>. Ohio State CS \'19. <br>Lady of elastic virtue and cosmopolitan tendencies.',
     contacts: {
       email: 'myer.41@osu.edu',
       github: 'noramyer',
